@@ -14,7 +14,7 @@ final class WhatsappViewDto implements WhatsappViewInterface, JsonableInterface
 
     /**
      * 
-     * @param WhatsappViewDto[] $items
+     * @param WhatsappSendDto[] $items
      * 
      */
     public function __construct(
